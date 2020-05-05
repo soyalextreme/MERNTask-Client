@@ -1,4 +1,4 @@
-# Buscador de Noticias
+# APP de notas FULLSTACK
 
 ## React Course
 
